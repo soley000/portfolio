@@ -1,4 +1,4 @@
-# utomatisation panels Excel Equipe statistiques**
+# **Automatisation panels Excel Equipe statistiques**
 
 ## 📌 Contexte
 Optimisation d’un workflow Excel pour Renault.
