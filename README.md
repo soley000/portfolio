@@ -32,7 +32,6 @@ Je suis étudiante en Master Intelligence Artificielle et Data Scientist, appren
 ### 1️⃣ Vision & LLM Evaluation Framework for Driving Scenarios
 
 Pipeline d’évaluation de modèles internes vs RAM, détection d’hallucinations et analyse qualitative.
-| Projet industriel / non code exposé
 
 ### 2️⃣ Benchmarking Vision-Language Models (Cosmos Reason1 & Reason2)
 
@@ -55,8 +54,6 @@ Framework d’évaluation générique pour modèles génératifs, génération d
 ## 🌱 Side Projects / Explorations
 
 * **Projet Détection d’objets en images** – Détection d’objets avec YOLO et SSD MobileNet v2 (side project étudiant).
-
-> Ces projets montrent ma curiosité et mon engagement à explorer de nouvelles technologies, même en dehors du cadre industriel.
 
 ---
 
