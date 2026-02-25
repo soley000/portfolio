@@ -32,8 +32,6 @@ B --> C[Validation & Standardisation]
 C --> D[Intégration dans SIM & Analyse 📊]
 ```
 
----
-
 ## 🛠 Méthodologie
 
 * Analyse des fichiers sources pour identifier champs critiques et divergences
