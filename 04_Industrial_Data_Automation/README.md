@@ -27,7 +27,7 @@ _Un panel_ est un fichier Excel interne à l’équipe qui permet d’intégrer 
 
 ```mermaid
 flowchart LR
-A[Correspondants pays – fichiers sources] --> B[Création & Nettoyage du Panel (Excel interne)]
+A[Correspondants pays – fichiers sources] --> B[Création & Nettoyage du Panel - Excel interne]
 B --> C[Validation & Standardisation]
 C --> D[Intégration dans SIM & Analyse 📊]
 ```
